@@ -1,0 +1,7 @@
+.env
+geckodriver
+geckodriver.exe
+geckodriver.log
+chromedriver
+main.pyw
+__pycache__
