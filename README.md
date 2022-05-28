@@ -10,6 +10,6 @@ This script runs streams with drops enabled in the background until there is non
 - Credentials stored in dotenv file
 
 ## Running the script
-- Run `python dropcollector.py` or open the run.bat file. A new Firefox window be opened.
+- Run `python main.py` or open the run.bat file. A new Firefox window be opened.
 - Do whatever you want, the script will run until there are no streams live that have drops enabled.
 - once finished it will print a message saying so.
