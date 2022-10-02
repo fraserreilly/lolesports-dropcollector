@@ -1,7 +1,5 @@
 .env
-geckodriver
-geckodriver.exe
-geckodriver.log
 chromedriver
-main.pyw
+chromedriver.exe
+/Screenshots/*
 __pycache__
