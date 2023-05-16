@@ -1,5 +1,11 @@
 .env
 chromedriver
 chromedriver.exe
+chromedriver.log
 /Screenshots/*
 __pycache__
+geckodriver
+geckodriver.exe
+geckodriver.log
+/venv
+.vscode

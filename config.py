@@ -1,5 +1,4 @@
-home = "https://lolesports.com/"
-schedule = "https://lolesports.com/schedule?leagues=worlds,lec,lck,lcs,lpl,all-star,msi"
+schedule = "https://lolesports.com/schedule?leagues=msi,lec,lck,lcs,lpl,worlds,all-star"
 lpl = "https://lolesports.com/live/lpl/lpl"
 lck = "https://lolesports.com/live/lck/lck"
 lec = "https://lolesports.com/live/lec/lec"
